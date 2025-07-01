@@ -40,7 +40,7 @@
 
 ### 📫 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:youremail@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:dhrona1421@gmail.com)
 
 ---
 
