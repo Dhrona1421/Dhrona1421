@@ -1,21 +1,17 @@
-<!-- 🔥 Animated Intro -->
+# 👋 Hi, I'm Dhrona
 
-<h1 align="center">Hi 👋, I'm Dhrona</h1>
-<h3 align="center">🔐 Cybersecurity Enthusiast | 🤖 AI Explorer | ⚙️ Automation Builder</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Learner;AI+Developer;Automation+Builder;Always+Learning+New+Things&center=true&width=500&height=45">
-</p>
+🔐 Cybersecurity Enthusiast | 🤖 AI Explorer | ⚙️ Automation Builder  
+🎓 Student | Passionate about building real-world applications  
 
 ---
 
 ## 🔥 About Me
 
-* 🧠 Self-driven learner (non-traditional developer journey)
-* 🔐 Passionate about **Cybersecurity & Ethical Hacking**
-* 🤖 Exploring **AI-powered tools, automation, and full-stack development**
-* 💻 Built large-scale projects (~400k+ lines)
-* ⚡ Love solving real-world problems with code
+* 🧠 Self-driven learner (non-traditional developer journey)  
+* 🔐 Passionate about **Cybersecurity & Ethical Hacking**  
+* 🤖 Exploring **AI-powered tools, automation, and full-stack development**  
+* 💻 Built large-scale projects (~400k+ lines)  
+* ⚡ Love solving real-world problems with code  
 
 ---
 
@@ -39,43 +35,50 @@
 
 ### 🧠 Multimodal Content Moderation System
 
-🔗 https://huggingface.co/spaces/Dhrona1421/multimodal-content-moderation
-🔗 https://github.com/Dhrona1421/multimodal-content-moderation
+🔗 [Hugging Face Demo](https://huggingface.co/spaces/Dhrona1421/multimodal-content-moderation)  
+🔗 [GitHub Repo](https://github.com/Dhrona1421/multimodal-content-moderation)  
 
-👉 AI-powered system to analyze and moderate content across text and images
+👉 AI-powered system to analyze and moderate content across text and images  
 
 ---
 
 ## 📈 What I'm Working On
 
-* Improving AI-based applications
-* Building scalable web apps
-* Exploring automation workflows
-* Learning security-focused development
+* Improving AI-based applications  
+* Building scalable web apps  
+* Exploring advanced automation workflows  
+* Learning security-focused development  
 
 ---
 
 ## 🌱 Currently Learning
 
-* 🔐 Cybersecurity fundamentals (Networking, Web Security, Vulnerabilities)
-* 🤖 Advanced AI integrations
-* ⚙️ Backend & system design
+* 🔐 Cybersecurity fundamentals (Networking, Web Security, Vulnerabilities)  
+* 🤖 Advanced AI integrations  
+* ⚙️ Backend & system design  
 
 ---
 
 ## 🎯 Goals
 
-* Become skilled in **Cybersecurity & Ethical Hacking**
-* Build impactful **AI-powered applications**
-* Create smart **automation tools**
-* Contribute to open-source
+* Become skilled in **Cybersecurity & Ethical Hacking**  
+* Build impactful **AI-powered applications**  
+* Create smart **automation tools**  
+* Contribute to open-source and real-world projects  
+
+---
+
+## 🤝 Let's Connect
+
+* 💬 Open to collaboration, mentorship, and feedback  
+* ⭐ Check out my repositories and support with a star!  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhrona1421&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhrona1421&show_icons=true&theme=tokyonight&cache_seconds=86400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhrona1421&theme=tokyonight" />
 </p>
 
@@ -86,13 +89,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhrona1421&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-
----
-
-## 🤝 Let's Connect
-
-* 💬 Open to collaboration, mentorship, and feedback
-* ⭐ Check out my repositories and support with a star!
 
 ---
 
