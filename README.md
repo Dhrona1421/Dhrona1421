@@ -25,7 +25,7 @@
 ├─ OS       : Kali Linux  ← primary weapon
 ├─ STATUS   : 🟢 ONLINE — always somewhere
 ├─ LOCATION : India [coords: classified]
-├─ SCALE    : 400,000+ lines of code shipped
+├─ SCALE    : 40,000+ lines of code shipped
 ├─ MODE     : EXPLORE → BUILD → BREAK → REPEAT
 └─ MOTTO    : "The best hackers build before
                asking for permission."
