@@ -360,7 +360,7 @@ Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemo
   <img alt="snake" src="https://raw.githubusercontent.com/Dhrona1421/Dhrona1421/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<sub>⚠️ Enable snake: Profile repo → Actions → Add <a href="https://github.com/platane/snk">platane/snk</a> workflow → commit.</sub>
+<sub>It's always a snake</sub>
 
 </div>
 
