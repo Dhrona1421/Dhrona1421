@@ -336,7 +336,7 @@ Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemo
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhrona1421&layout=compact&theme=merko&hide_border=true&bg_color=050f05&title_color=00FF41&text_color=88ffaa&border_radius=12&langs_count=6" height="140"/>
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/](https://github-readme-stats-sigma-five.vercel.app/api?username=Dhrona1421&show_icons=true&theme=merko&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=aaffaa&border_radius=10)?username=Dhrona1421&layout=compact&theme=merko&hide_border=true&bg_color=050f05&title_color=00FF41&text_color=88ffaa&border_radius=12&langs_count=6" height="140"/>
 
 </div>
 
