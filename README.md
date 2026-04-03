@@ -269,7 +269,7 @@ AI-powered engine that analyzes and moderates content across **text + images** s
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║   "The system said I needed a traditional path.                   ║
-║    I wrote 400,000 lines and built my own."        — Dhrona       ║
+║    I wrote 40,000 lines and built my own."        — Dhrona       ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
