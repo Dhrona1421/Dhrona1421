@@ -1,49 +1,101 @@
-# Hi, I'm Dhrona 💻✨  
-### 🚀 Aspiring Software Engineer | AI/ML Enthusiast | Future 70+ LPA Achiever
+<!-- 🔥 Animated Intro -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dhrona1421&color=blue)
+<h1 align="center">Hi 👋, I'm Dhrona</h1>
+<h3 align="center">🔐 Cybersecurity Enthusiast | 🤖 AI Explorer | ⚙️ Automation Builder</h3>
 
----
-
-### 🧠 Currently Learning:
-- 🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)
-- 🐍 Python, C++
-- 🔢 Data Structures & Algorithms
-- 🤖 Machine Learning & Deep Learning
-- 🧠 Neural Networks, LLMs, NLP
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Learner;AI+Developer;Automation+Builder;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
 ---
 
-### 🎯 My 3-Year Goal:
-🏆 Crack a 70+ LPA placement at Google / Microsoft / Top Product Companies  
-🎖️ Start contributing to open-source projects  
-🛠 Build real-world AI tools & automation apps
+## 🔥 About Me
+
+* 🧠 Self-driven learner (non-traditional developer journey)
+* 🔐 Passionate about **Cybersecurity & Ethical Hacking**
+* 🤖 Exploring **AI-powered tools, automation, and full-stack development**
+* 💻 Built large-scale projects (~400k+ lines)
+* ⚡ Love solving real-world problems with code
 
 ---
 
-### 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
 
 ---
 
-### 📂 Featured Projects:
-- 🔹 Lixi AI Assistant (Personal AI Bestie for Android)
-- 🔹 Sand Booking Automation Bot (Python + Selenium)
-- 🔹 Daily Income Bot (Toloka Automation)
-- 🔹 Telegram AI Chatbot
+## 🚀 Featured Project
+
+### 🧠 Multimodal Content Moderation System
+
+🔗 https://huggingface.co/spaces/Dhrona1421/multimodal-content-moderation
+🔗 https://github.com/Dhrona1421/multimodal-content-moderation
+
+👉 AI-powered system to analyze and moderate content across text and images
 
 ---
 
-### 📫 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:dhrona1421@gmail.com)
+## 📈 What I'm Working On
+
+* Improving AI-based applications
+* Building scalable web apps
+* Exploring automation workflows
+* Learning security-focused development
 
 ---
 
-### ⚡ Fun Fact:
-I believe in starting from 0 — and reaching the top with **consistent action** 💪  
-Let’s build greatness — one repo at a time 🚀
+## 🌱 Currently Learning
+
+* 🔐 Cybersecurity fundamentals (Networking, Web Security, Vulnerabilities)
+* 🤖 Advanced AI integrations
+* ⚙️ Backend & system design
+
+---
+
+## 🎯 Goals
+
+* Become skilled in **Cybersecurity & Ethical Hacking**
+* Build impactful **AI-powered applications**
+* Create smart **automation tools**
+* Contribute to open-source
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhrona1421&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhrona1421&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhrona1421&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+* 💬 Open to collaboration, mentorship, and feedback
+* ⭐ Check out my repositories and support with a star!
+
+---
+
+## ⚡ Fun Fact
+
+I started without a traditional dev background and still built large-scale projects 🚀
