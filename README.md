@@ -340,6 +340,15 @@ Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemo
 
 </div>
 
+<!-- TROPHIES -->
+<div align="center">
+
+### 🏆 `github trophies`
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dhrona1421&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 <!-- ACTIVITY GRAPH -->
 <div align="center">
 <br/>
