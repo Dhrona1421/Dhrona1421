@@ -35,20 +35,20 @@
 
 ```zsh
 ╭─────────────────────────────────────────────────╮
-│         ⚡  IDENTITY MATRIX — DHRONA.SYS  ⚡      │
+│         ⚡  IDENTITY MATRIX — DHRONA.SYS  ⚡   │
 ├─────────────────────────────────────────────────┤
 │                                                 │
-│  ┌──(dhrona㉿kali)-[~/existence]               │
+│  ┌──(dhrona㉿kali)-[~/existence]                
 │  │                                              │
-│  ├─ ALIAS    »  Ghost in the Machine            │
+│  ├─ ALIAS    »  Ghost in the Machine            
 │  ├─ CLASS    »  Tech Explorer                   │
-│  ├─ WEAPON   »  Kali Linux  🐉                  │
+│  ├─ WEAPON   »  Kali Linux  🐉                  
 │  ├─ LANG     »  Python · JS · C                 │
-│  ├─ BUILT    »  40,000+ lines of code          │
+│  ├─ BUILT    »  40,000+ lines of code           
 │  ├─ ORIGIN   »  Self-taught. No map.            │
-│  ├─ SIGNAL   »  🟢 ONLINE — always somewhere    │
+│  ├─ SIGNAL   »  🟢 ONLINE — always somewhere   
 │  ├─ COORDS   »  India [classified]              │
-│  └─ CREED    »  Build before permission.        │
+│  └─ CREED    »  Build before permission.        _
 │                                                 │
 ╰─────────────────────────────────────────────────╯
 ```
@@ -67,7 +67,7 @@
 ```python
 #!/usr/bin/env python3
 # ╔══════════════════════════════════════════════════════════╗
-# ║          DHRONA.PY  —  Instantiated on Earth            ║
+# ║          DHRONA.PY  —  Instantiated on Earth             ║
 # ╚══════════════════════════════════════════════════════════╝
 
 class Dhrona(TechExplorer, CyberGhost, AIArchitect):
@@ -121,17 +121,17 @@ if __name__ == "__main__":
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  root@kali:~# sudo find /home/dhrona/projects -type f -ls           ║
+║  root@kali:~# sudo find /home/dhrona/projects -type f -ls            ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║  find: '/projects/alpha'  : Permission denied  [AES-256 encrypted]  ║
-║  find: '/projects/beta'   : Permission denied  [AES-256 encrypted]  ║
-║  find: '/projects/sigma'  : Permission denied  [AES-256 encrypted]  ║
-║  find: '/projects/void'   : Permission denied  [AES-256 encrypted]  ║
-║  find: '/projects/ghost'  : Permission denied  [AES-256 encrypted]  ║
+║  find: '/projects/alpha'  : Permission denied  [AES-256 encrypted]   ║
+║  find: '/projects/beta'   : Permission denied  [AES-256 encrypted]   ║
+║  find: '/projects/sigma'  : Permission denied  [AES-256 encrypted]   ║
+║  find: '/projects/void'   : Permission denied  [AES-256 encrypted]   ║
+║  find: '/projects/ghost'  : Permission denied  [AES-256 encrypted]   ║
 ║                                                                      ║
 ║  0 results returned.                                                 ║
-║  Clearance required: [ABOVE YOUR PAY GRADE]                         ║
+║  Clearance required: [ABOVE YOUR PAY GRADE]                          ║
 ║                                                                      ║
 ║  root@kali:~# █                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
@@ -260,7 +260,7 @@ ARCHITECTURE:
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  PID    CPU%   MEM%   PRIORITY   THREAD_NAME                        ║
+║  PID    CPU%   MEM%   PRIORITY   THREAD_NAME                         ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  1337   99.9%  ████░  [MAXED]    → Sharpening AI multimodal systems  ║
 ║  0x4F   91.2%  ███░░  [HIGH]     → Mastering Kali pentesting tools   ║
@@ -304,11 +304,11 @@ Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemo
 ```
   ╔═══════════════════════════════════════════════════════════════╗
   ║                                                               ║
-  ║        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄              ║
-  ║        █       PRIORITY TARGETS — DHRONA.SYS      █          ║
-  ║        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀              ║
+  ║        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄                 ║
+  ║        █       PRIORITY TARGETS — DHRONA.SYS      █           ║
+  ║        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀               ║
   ║                                                               ║
-  ║   [01]  ████████░░  Master Kali & Ethical Hacking            ║
+  ║   [01]  ████████░░  Master Kali & Ethical Hacking             ║
   ║   [02]  ███████░░░  Build AI systems that actually matter     ║
   ║   [03]  ██████░░░░  Engineer automation that frees humans     ║
   ║   [04]  █████░░░░░  Open-source — give back to the grid       ║
@@ -399,7 +399,7 @@ Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemo
 ║   > Signal    : Strong                                   ║
 ║   > Latency   : Faster than you'd expect                 ║
 ║   > Note      : Public repos survived the filter.        ║
-║                 They're worth a ⭐                        ║
+║                 They're worth a ⭐                       
 ║                                                          ║
 ║   root@kali:~# █                                         ║
 ╚══════════════════════════════════════════════════════════╝
