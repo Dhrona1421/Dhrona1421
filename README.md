@@ -203,7 +203,7 @@ ARCHITECTURE:
 
 </td>
 <td width="42%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" style="border-radius: 12px;"/>
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="260" style="border-radius: 12px;"/>
 </td>
 </tr>
 </table>
