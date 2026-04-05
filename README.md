@@ -445,5 +445,5 @@ Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemo
 
 <!-- ████████████████████████████████████████████████████████████████████ -->
 <!--                     END OF DHRONA PROFILE README                     -->
-<!--              If you read this far, you already know what to do.      -->
+<!--              If you read this far, you already know what to do.     -->
 <!-- ████████████████████████████████████████████████████████████████████ -->
