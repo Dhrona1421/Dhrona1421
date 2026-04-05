@@ -77,7 +77,7 @@ class Dhrona(TechExplorer, CyberGhost, AIArchitect):
         self.alias        = "Ghost in the Machine"
         self.os           = "Kali Linux"           # ← The only right answer
         self.origin       = "Self-taught. No roadmap. Just hunger."
-        self.philosophy   = "The system said I needed a degree. I wrote 400k lines instead."
+        self.philosophy   = "The system said I needed a degree. I wrote 40k lines instead."
         self.threat_level = "∞"
 
         self.arsenal = {
