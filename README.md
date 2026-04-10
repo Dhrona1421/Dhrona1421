@@ -16,7 +16,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=45&lines=%5BROOT%40KALI+~%5D%24+sudo+./boot_sequence.sh+--identity;%E2%96%B6+Loading+Dhrona...+[%23%23%23%23%23%23%23%23%23%23]+100%25+%E2%9C%93;%5BROOT%40KALI+~%5D%24+whoami;%E2%96%B6+Tech+Explorer+%2F+Ghost+in+the+Machine+%2F+AI+Architect;%5BROOT%40KALI+~%5D%24+cat+%2Fetc%2Fmission;%E2%96%B6+Break+limits.+Build+futures.+Leave+no+trace.+%F0%9F%94%93;%5BROOT%40KALI+~%5D%24+uname+-a;%E2%96%B6+Kali+Linux+%7C+Self-taught+%7C+400%2C000%2B+lines+%7C+Still+going." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=45&lines=%5BROOT%40KALI+~%5D%24+sudo+./boot_sequence.sh+--identity;%E2%96%B6+Loading+Dhrona...+[%23%23%23%23%23%23%23%23%23%23]+100%25+%E2%9C%93;%5BROOT%40KALI+~%5D%24+whoami;%E2%96%B6+Tech+Explorer+%2F+Ghost+in+the+Machine+%2F+AI+Architect;%5BROOT%40KALI+~%5D%24+cat+%2Fetc%2Fmission;%E2%96%B6+Break+limits.+Build+futures.+Leave+no+trace.+%F0%9F%94%93;%5BROOT%40KALI+~%5D%24+uname+-a;%E2%96%B6+Kali+Linux+%7C+Self-taught+%7C+40%2C000%2B+lines+%7C+Still+going." />
 </a>
 
 </div>
