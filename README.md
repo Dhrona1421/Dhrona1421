@@ -23,6 +23,8 @@
 
 <br/>
 
+<!-- ═══════════════════════ GLITCH DIVIDER ══════════════════════════ -->
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
@@ -33,26 +35,27 @@
 
 ```zsh
 ╭─────────────────────────────────────────────────╮
-│         ⚡  IDENTITY MATRIX — DHRONA.SYS  ⚡    │
+│         ⚡  IDENTITY MATRIX — DHRONA.SYS  ⚡   │
 ├─────────────────────────────────────────────────┤
-│                                                   │
-│  ┌──(dhrona㉿kali)-[~/existence]                  │
-│  │                                                │
-│  ├─ ALIAS    »  Ghost in the Machine              │
-│  ├─ CLASS    »  Tech Explorer                     │
-│  ├─ WEAPON   »  Kali Linux  🐉                    │
-│  ├─ LANG     »  Python · JS · C                   │
-│  ├─ BUILT    »  40,000+ lines of code             │
-│  ├─ ORIGIN   »  Self-taught. No map.               │
-│  ├─ SIGNAL   »  🟢 ONLINE — always somewhere      │
-│  ├─ COORDS   »  India [classified]                │
-│  └─ CREED    »  Build before permission.           │
-│                                                   │
+│                                                 │
+│  ┌──(dhrona㉿kali)-[~/existence]                
+│  │                                              │
+│  ├─ ALIAS    »  Ghost in the Machine            
+│  ├─ CLASS    »  Tech Explorer                   │
+│  ├─ WEAPON   »  Kali Linux  🐉                  
+│  ├─ LANG     »  Python · JS · C                 │
+│  ├─ BUILT    »  40,000+ lines of code           
+│  ├─ ORIGIN   »  Self-taught. No map.            │
+│  ├─ SIGNAL   »  🟢 ONLINE — always somewhere   
+│  ├─ COORDS   »  India [classified]              │
+│  └─ CREED    »  Build before permission.        _
+│                                                 │
 ╰─────────────────────────────────────────────────╯
 ```
 
 <br clear="right"/>
 
+<!-- ═══════════════════════ GLITCH DIVIDER ══════════════════════════ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
@@ -64,7 +67,7 @@
 ```python
 #!/usr/bin/env python3
 # ╔══════════════════════════════════════════════════════════╗
-# ║          DHRONA.PY  —  Instantiated on Earth              ║
+# ║          DHRONA.PY  —  Instantiated on Earth             ║
 # ╚══════════════════════════════════════════════════════════╝
 
 class Dhrona(TechExplorer, CyberGhost, AIArchitect):
@@ -72,7 +75,7 @@ class Dhrona(TechExplorer, CyberGhost, AIArchitect):
     def __init__(self):
         self.name         = "Dhrona"
         self.alias        = "Ghost in the Machine"
-        self.os           = "Kali Linux"           # ← the only right answer
+        self.os           = "Kali Linux"           # ← The only right answer
         self.origin       = "Self-taught. No roadmap. Just hunger."
         self.philosophy   = "The system said I needed a degree. I wrote 40k lines instead."
         self.threat_level = "∞"
@@ -96,7 +99,7 @@ class Dhrona(TechExplorer, CyberGhost, AIArchitect):
     def fun_fact(self):
         return """
         No CS degree. No traditional path. No permission asked.
-        Just 40,000+ lines of code and the audacity to keep going.
+        Just 400,000+ lines of code and the audacity to keep going.
         The gatekeepers gatekept. The code didn't care.
         """
 
@@ -105,6 +108,7 @@ if __name__ == "__main__":
     ghost.execute(mission="leave_a_dent_in_the_universe")
 ```
 
+<!-- ═══════════════════════ GLITCH DIVIDER ══════════════════════════ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
@@ -117,19 +121,19 @@ if __name__ == "__main__":
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  root@kali:~# sudo find /home/dhrona/projects -type f -ls             ║
+║  root@kali:~# sudo find /home/dhrona/projects -type f -ls            ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║                                                                        ║
-║  find: '/projects/alpha'  : Permission denied  [AES-256 encrypted]    ║
-║  find: '/projects/beta'   : Permission denied  [AES-256 encrypted]    ║
-║  find: '/projects/sigma'  : Permission denied  [AES-256 encrypted]    ║
-║  find: '/projects/void'   : Permission denied  [AES-256 encrypted]    ║
-║  find: '/projects/ghost'  : Permission denied  [AES-256 encrypted]    ║
-║                                                                        ║
-║  0 results returned.                                                  ║
-║  Clearance required: [ABOVE YOUR PAY GRADE]                           ║
-║                                                                        ║
-║  root@kali:~# █                                                       ║
+║                                                                      ║
+║  find: '/projects/alpha'  : Permission denied  [AES-256 encrypted]   ║
+║  find: '/projects/beta'   : Permission denied  [AES-256 encrypted]   ║
+║  find: '/projects/sigma'  : Permission denied  [AES-256 encrypted]   ║
+║  find: '/projects/void'   : Permission denied  [AES-256 encrypted]   ║
+║  find: '/projects/ghost'  : Permission denied  [AES-256 encrypted]   ║
+║                                                                      ║
+║  0 results returned.                                                 ║
+║  Clearance required: [ABOVE YOUR PAY GRADE]                          ║
+║                                                                      ║
+║  root@kali:~# █                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -148,6 +152,7 @@ if __name__ == "__main__":
 
 </div>
 
+<!-- ═══════════════════════ GLITCH DIVIDER ══════════════════════════ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
@@ -159,13 +164,13 @@ if __name__ == "__main__":
 <div align="center">
 
 ```
-██████╗ ██╗   ██╗██████╗ ██╗     ██╗ ██████╗
-██╔══██╗██║   ██║██╔══██╗██║     ██║██╔════╝
+     ██████╗ ██╗   ██╗██████╗ ██╗     ██╗ ██████╗
+     ██╔══██╗██║   ██║██╔══██╗██║     ██║██╔════╝
 ██████╔╝██║   ██║██████╔╝██║     ██║██║
 ██╔═══╝ ██║   ██║██╔══██╗██║     ██║██║
-██║     ╚██████╔╝██████╔╝███████╗██║╚██████╗
-╚═╝      ╚═════╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝
-      MULTIMODAL CONTENT MODERATION
+     ██║     ╚██████╔╝██████╔╝███████╗██║╚██████╗
+     ╚═╝      ╚═════╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝
+         MULTIMODAL CONTENT MODERATION
 ```
 
 </div>
@@ -203,6 +208,7 @@ ARCHITECTURE:
 </tr>
 </table>
 
+<!-- ═══════════════════════ GLITCH DIVIDER ══════════════════════════ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
@@ -243,26 +249,27 @@ ARCHITECTURE:
 
 </div>
 
+<!-- ═══════════════════════ GLITCH DIVIDER ══════════════════════════ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 <!-- ═══════════════════════ CURRENT OPS ═════════════════════════════ -->
 
-## 🖥️ `❯ htop --filter=dhrona`
+## 🖥️ `❯ htop —filter=dhrona`
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  PID    CPU%   MEM%   PRIORITY   THREAD_NAME                          ║
+║  PID    CPU%   MEM%   PRIORITY   THREAD_NAME                         ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  1337   99.9%  ████░  [MAXED]    → Sharpening AI multimodal systems   ║
-║  0x4F   91.2%  ███░░  [HIGH]     → Mastering Kali pentesting tools    ║
-║  0xFF   78.4%  ███░░  [HIGH]     → Building backend architectures     ║
-║  0xAB   67.1%  ██░░░  [NORMAL]   → Automating workflows at scale      ║
-║  0xCC   54.3%  ██░░░  [NORMAL]   → CTF challenges & vuln research     ║
-║  0x00    0.0%  ░░░░░  [BLOCKED]  → sleep() — never executes           ║
+║  1337   99.9%  ████░  [MAXED]    → Sharpening AI multimodal systems  ║
+║  0x4F   91.2%  ███░░  [HIGH]     → Mastering Kali pentesting tools   ║
+║  0xFF   78.4%  ███░░  [HIGH]     → Building backend architectures    ║
+║  0xAB   67.1%  ██░░░  [NORMAL]   → Automating workflows at scale     ║
+║  0xCC   54.3%  ██░░░  [NORMAL]   → CTF challenges & vuln research    ║
+║  0x00    0.0%  ░░░░░  [BLOCKED]  → sleep() — never executes          ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  Uptime: ∞    Load avg: always_high    Swap: curiosity_overflow       ║
+║  Uptime: ∞    Load avg: always_high    Swap: curiosity_overflow      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -276,13 +283,14 @@ ARCHITECTURE:
 Jan ?? ??:??:?? kali dhrona[0001]: [BOOT]   Brain service initialized
 Jan ?? ??:??:?? kali dhrona[0002]: [INFO]   Loading: Kali Linux — recon, exploit dev, CTF
 Jan ?? ??:??:?? kali dhrona[0003]: [INFO]   Loading: Cybersecurity — OWASP, web vulns, threat modeling
-Jan ?? ??:??:?? kali dhrona[0004]: [INFO]   Loading: AI systems — RAG, agents, multimodal pipelines
+Jan ?? ??:??:?? kali dhrona[0004]: [INFO]   Loading: AI Systems — RAG, agents, multimodal pipelines
 Jan ?? ??:??:?? kali dhrona[0005]: [INFO]   Loading: Backend architecture & distributed system design
 Jan ?? ??:??:?? kali dhrona[0006]: [WARN]   Sleep queue: FULL — buffer overflow detected
 Jan ?? ??:??:?? kali dhrona[0007]: [INFO]   Queue depth: ∞  ETA to completion: NEVER (intended)
 Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemon: HEALTHY ✓
 ```
 
+<!-- ═══════════════════════ GLITCH DIVIDER ══════════════════════════ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
@@ -294,21 +302,24 @@ Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemo
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                                 ║
-║        PRIORITY TARGETS — DHRONA.SYS                           ║
-║                                                                 ║
-║   [01]  ████████░░  Master Kali & Ethical Hacking              ║
-║   [02]  ███████░░░  Build AI systems that actually matter      ║
-║   [03]  ██████░░░░  Engineer automation that frees humans      ║
-║   [04]  █████░░░░░  Open-source — give back to the grid        ║
-║   [05]  ████░░░░░░  Leave a permanent dent in the universe     ║
-║                                                                 ║
-╚═══════════════════════════════════════════════════════════════╝
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║                                                               ║
+  ║        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄                 ║
+  ║        █       PRIORITY TARGETS — DHRONA.SYS      █           ║
+  ║        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀               ║
+  ║                                                               ║
+  ║   [01]  ████████░░  Master Kali & Ethical Hacking             ║
+  ║   [02]  ███████░░░  Build AI systems that actually matter     ║
+  ║   [03]  ██████░░░░  Engineer automation that frees humans     ║
+  ║   [04]  █████░░░░░  Open-source — give back to the grid       ║
+  ║   [05]  ████░░░░░░  Leave a permanent dent in the universe    ║
+  ║                                                               ║
+  ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
+<!-- ═══════════════════════ GLITCH DIVIDER ══════════════════════════ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
@@ -325,7 +336,7 @@ Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemo
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dhrona1421&layout=compact&theme=merko&hide_border=true&bg_color=050f05&title_color=00FF41&text_color=88ffaa&border_radius=12&langs_count=6" height="140"/>
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/](https://github-readme-stats-sigma-five.vercel.app/api?username=Dhrona1421&show_icons=true&theme=merko&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=aaffaa&border_radius=10)?username=Dhrona1421&layout=compact&theme=merko&hide_border=true&bg_color=050f05&title_color=00FF41&text_color=88ffaa&border_radius=12&langs_count=6" height="140"/>
 
 </div>
 
@@ -353,6 +364,7 @@ Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemo
 
 </div>
 
+<!-- ═══════════════════════ GLITCH DIVIDER ══════════════════════════ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
@@ -367,6 +379,7 @@ Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemo
 
 </div>
 
+<!-- ═══════════════════════ GLITCH DIVIDER ══════════════════════════ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
@@ -379,16 +392,16 @@ Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemo
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║                                                            ║
-║   [CHANNEL OPEN]  Handshake: SUCCESSFUL                    ║
-║                                                            ║
-║   > Intent    : Collaborate | Hack | Build | Mentor        ║
-║   > Signal    : Strong                                     ║
-║   > Latency   : Faster than you'd expect                   ║
-║   > Note      : Public repos survived the filter.          ║
-║                 They're worth a ⭐                          ║
-║                                                            ║
-║   root@kali:~# █                                           ║
+║                                                          ║
+║   [CHANNEL OPEN]  Handshake: SUCCESSFUL                  ║
+║                                                          ║
+║   > Intent    : Collaborate | Hack | Build | Mentor      ║
+║   > Signal    : Strong                                   ║
+║   > Latency   : Faster than you'd expect                 ║
+║   > Note      : Public repos survived the filter.        ║
+║                 They're worth a ⭐                       
+║                                                          ║
+║   root@kali:~# █                                         ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -398,6 +411,7 @@ Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemo
 
 </div>
 
+<!-- ═══════════════════════ GLITCH DIVIDER ══════════════════════════ -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
@@ -409,14 +423,14 @@ Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemo
 <br/>
 
 ```
-██████████████████████████████████████████████████████████████████
-█                                                                  █
-█   "The system said I needed a traditional path.                 █
-█    I wrote 40,000 lines and built my own."                      █
-█                                                                  █
-█                                               — Dhrona           █
-█                                                                  █
-██████████████████████████████████████████████████████████████████
+ ██████████████████████████████████████████████████████████████████
+ █                                                                █
+ █   "The system said I needed a traditional path.               █
+ █    I wrote 40,000 lines and built my own."                   █
+ █                                                               █
+ █                                               — Dhrona        █
+ █                                                                █
+ ██████████████████████████████████████████████████████████████████
 ```
 
 <br/>
