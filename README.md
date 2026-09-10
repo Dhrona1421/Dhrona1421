@@ -307,23 +307,23 @@ Jan ?? ??:??:?? kali dhrona[0007]: [OK]     All modules running. Curiosity daemo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhrona1421&show_icons=true&theme=merko&hide_border=true&bg_color=050f05&title_color=00FF41&icon_color=00FF41&text_color=88ffaa&border_radius=12&count_private=true&include_all_commits=true" height="175"/>
+<img src="./profile/stats.svg" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhrona1421&theme=merko&hide_border=true&background=050f05&ring=00FF41&fire=44ff44&currStreakLabel=00FF41&sideLabels=88ffaa&dates=66cc66&border_radius=12" height="175"/>
+<img src="./profile/streak.svg" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhrona1421&layout=compact&theme=merko&hide_border=true&bg_color=050f05&title_color=00FF41&text_color=88ffaa&border_radius=12&langs_count=6" height="140"/>
+<img src="./profile/top-langs.svg" height="140"/>
 
 </div>
 
+<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════════ -->
 
-
-<!-- ACTIVITY GRAPH -->
 <div align="center">
+
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhrona1421&bg_color=050f05&color=00FF41&line=00cc33&point=00FF41&area_color=001a00&area=true&hide_border=true&radius=8)](https://github.com/Dhrona1421)
+<img src="https://raw.githubusercontent.com/Dhrona1421/Dhrona1421/output/activity-graph.svg" alt="Dhrona's GitHub Activity Graph"/>
 
 </div>
 
