@@ -7,16 +7,14 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a0a,60:001500,100:00FF41&height=280&section=header&text=DHRONA&fontSize=90&fontColor=00FF41&animation=fadeIn&fontAlignY=50&desc=◈%20Tech%20Explorer%20◈%20Cyber%20Ghost%20◈%20AI%20Architect%20◈&descSize=16&descAlignY=70&descColor=44ff88&stroke=00FF41&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a0a,60:001500,100:00FF41&height=280&section=header&text=DHRONA&fontSize=90&fontColor=00FF41&animation=fadeIn&fontAlignY=50&desc=◈%20Tech%20Explorer%20◈%20Red%20Teamer%20◈%20AI%20Security%20Architect%20◈&descSize=16&descAlignY=70&descColor=44ff88&stroke=00FF41&strokeWidth=2)
 
 </div>
-
 <!-- ═══════════════════════ ANIMATED TERMINAL ════════════════════════ -->
-
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=45&lines=%5BROOT%40KALI+~%5D%24+sudo+./boot_sequence.sh+--identity;%E2%96%B6+Loading+Dhrona...+[%23%23%23%23%23%23%23%23%23%23]+100%25+%E2%9C%93;%5BROOT%40KALI+~%5D%24+whoami;%E2%96%B6+Tech+Explorer+%2F+Ghost+in+the+Machine+%2F+AI+Architect;%5BROOT%40KALI+~%5D%24+cat+%2Fetc%2Fmission;%E2%96%B6+Break+limits.+Build+futures.+Leave+no+trace.+%F0%9F%94%93;%5BROOT%40KALI+~%5D%24+uname+-a;%E2%96%B6+Kali+Linux+%7C+Self-taught+%7C+40%2C000%2B+lines+%7C+Still+going." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=45&lines=%5BROOT%40KALI+~%5D%24+sudo+./boot_sequence.sh+--identity;%E2%96%B6+Loading+Dhrona...+[%23%23%23%23%23%23%23%23%23%23]+100%25+%E2%9C%93;%5BROOT%40KALI+~%5D%24+whoami;%E2%96%B6+Tech+Explorer+%2F+Red+Teamer+%2F+AI+Security+Architect;%5BROOT%40KALI+~%5D%24+cat+%2Fetc%2Fmission;%E2%96%B6+Break+limits.+Build+futures.+Leave+no+trace.+%F0%9F%94%93;%5BROOT%40KALI+~%5D%24+uname+-a;%E2%96%B6+Kali+Linux+%7C+Self-taught+%7C+Enough+code+%7C+Still+going." />
 </a>
 
 </div>
@@ -28,7 +26,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-
 <!-- ═══════════════════════ IDENTITY TERMINAL ═══════════════════════ -->
 
 <img align="right" width="310" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd1NXgxbzVhdHZtYzlsNnphdTR4Zmk5OWU5aGN3ZjZuYnI3ZjZ2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -38,17 +35,17 @@
 │         ⚡  IDENTITY MATRIX — DHRONA.SYS  ⚡   │
 ├─────────────────────────────────────────────────┤
 │                                                 │
-│  ┌──(dhrona㉿kali)-[~/existence]                
+│  ┌──(dhrona㉿kali)-[~/existence]                │
 │  │                                              │
-│  ├─ ALIAS    »  Ghost in the Machine            
+│  ├─ ALIAS    »  Ghost in the Machine            │
 │  ├─ CLASS    »  Tech Explorer                   │
-│  ├─ WEAPON   »  Kali Linux  🐉                  
-│  ├─ LANG     »  Python · JS · C                 │
-│  ├─ BUILT    »  40,000+ lines of code           
+│  ├─ WEAPON   »  Kali Linux  🐉                  │
+│  ├─ LANG     »  Python · JS · C/C++             │
+│  ├─ BUILT    »  Enough lines of code            │
 │  ├─ ORIGIN   »  Self-taught. No map.            │
-│  ├─ SIGNAL   »  🟢 ONLINE — always somewhere   
+│  ├─ SIGNAL   »  🟢 ONLINE — always somewhere   |
 │  ├─ COORDS   »  India [classified]              │
-│  └─ CREED    »  Build before permission.        _
+│  └─ CREED    »  Build before permission.        |
 │                                                 │
 ╰─────────────────────────────────────────────────╯
 ```
@@ -77,12 +74,12 @@ class Dhrona(TechExplorer, CyberGhost, AIArchitect):
         self.alias        = "Ghost in the Machine"
         self.os           = "Kali Linux"           # ← The only right answer
         self.origin       = "Self-taught. No roadmap. Just hunger."
-        self.philosophy   = "The system said I needed a degree. I wrote 40k lines instead."
+        self.philosophy   = "The system said I needed a degree. I wrote enough lines instead."
         self.threat_level = "∞"
 
         self.arsenal = {
-            "offensive" : ["Cybersecurity", "Ethical Hacking", "Recon", "Kali Tools"],
-            "builder"   : ["AI Engineering", "Multimodal Systems", "Full-Stack"],
+            "offensive" : ["Cybersecurity", "Ethical Hacking", "Recon", "Red Teamer"],
+            "builder"   : ["AI Engineering", "Multimodal Systems", "Blockchain"],
             "ops"       : ["Automation at Scale", "System Design", "Backend Arch"],
         }
 
@@ -99,7 +96,7 @@ class Dhrona(TechExplorer, CyberGhost, AIArchitect):
     def fun_fact(self):
         return """
         No CS degree. No traditional path. No permission asked.
-        Just 400,000+ lines of code and the audacity to keep going.
+        Just enough lines of code and the audacity to keep going.
         The gatekeepers gatekept. The code didn't care.
         """
 
@@ -125,11 +122,8 @@ if __name__ == "__main__":
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
 ║  find: '/projects/alpha'  : Permission denied  [AES-256 encrypted]   ║
-║  find: '/projects/beta'   : Permission denied  [AES-256 encrypted]   ║
-║  find: '/projects/sigma'  : Permission denied  [AES-256 encrypted]   ║
 ║  find: '/projects/void'   : Permission denied  [AES-256 encrypted]   ║
 ║  find: '/projects/ghost'  : Permission denied  [AES-256 encrypted]   ║
-║                                                                      ║
 ║  0 results returned.                                                 ║
 ║  Clearance required: [ABOVE YOUR PAY GRADE]                          ║
 ║                                                                      ║
@@ -157,97 +151,81 @@ if __name__ == "__main__":
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<!-- ═══════════════════════ FEATURED PROJECT ════════════════════════ -->
-
-## 🧠 `❯ ./launch --mode=public --project=flagship`
-
-<div align="center">
-
-```
-     ██████╗ ██╗   ██╗██████╗ ██╗     ██╗ ██████╗
-     ██╔══██╗██║   ██║██╔══██╗██║     ██║██╔════╝
-██████╔╝██║   ██║██████╔╝██║     ██║██║
-██╔═══╝ ██║   ██║██╔══██╗██║     ██║██║
-     ██║     ╚██████╔╝██████╔╝███████╗██║╚██████╗
-     ╚═╝      ╚═════╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝
-         MULTIMODAL CONTENT MODERATION
-```
-
-</div>
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### 🔬 What It Does
-
-An AI-powered engine that **sees, reads, and judges** — simultaneously analyzing text and images for harmful content in real time.
-
-Built to handle the unfiltered, chaotic, hostile corners of the internet at scale. Not a toy. A tool.
-
-```
-ARCHITECTURE:
-  Input  →  [TEXT]──────────┐
-                             ├──→  [FUSION ENGINE]  ──→  VERDICT
-  Input  →  [IMAGE]─────────┘
-```
-
-**Stack:** Python · HuggingFace Transformers · Multimodal AI · Gradio
-
----
-
-[![HuggingFace](https://img.shields.io/badge/🤗_LIVE_DEMO-FFD21E?style=for-the-badge&labelColor=000000&logoColor=FFD21E)](https://huggingface.co/spaces/Dhrona1421/multimodal-content-moderation)
-[![GitHub Repo](https://img.shields.io/badge/SOURCE_CODE-00FF41?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/Dhrona1421/multimodal-content-moderation)
-
-> *⚡ One of the few public windows into what I actually build.*
-
-</td>
-<td width="42%" align="center" valign="middle">
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="260" style="border-radius: 12px;"/>
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════ GLITCH DIVIDER ══════════════════════════ -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
 <!-- ═══════════════════════ TECH STACK ══════════════════════════════ -->
+
+<div align="center">
 
 ## ⚙️ `❯ lspkg --full --format=badge`
 
-<div align="center">
-
 ### `// LANGUAGES`
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C/C++](https://img.shields.io/badge/-C/C++-black?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-000000?style=for-the-badge\&logo=c\&logoColor=00FF41)
+
+---
 
 ### `// HACKING ENVIRONMENT`
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=5af)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge\&logo=kalilinux\&logoColor=5af)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge\&logo=gnubash\&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+
+---
 
 ### `// AI & CLOUD`
 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00FF41)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge\&logo=huggingface\&logoColor=FFD21E)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge\&logo=openai\&logoColor=00FF41)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge\&logo=anthropic\&logoColor=D97757)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-000000?style=for-the-badge\&logo=microsoftazure\&logoColor=0078D4)
+
+---
+
+### `// NETWORKING & NETWORK SECURITY`
+
+![Cisco](https://img.shields.io/badge/Cisco-000000?style=for-the-badge\&logo=cisco\&logoColor=1BA0D7)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-000000?style=for-the-badge\&logo=cisco\&logoColor=1BA0D7)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge\&logo=wireshark\&logoColor=1679A7)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge\&logo=nmap\&logoColor=00FF41)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge\&logo=internetprotocol\&logoColor=00FF41)
+![DNS](https://img.shields.io/badge/DNS-000000?style=for-the-badge\&logo=cloudflare\&logoColor=00FF41)
+![HTTP](https://img.shields.io/badge/HTTP-000000?style=for-the-badge\&logo=httpie\&logoColor=00FF41)
+![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge\&logo=openssh\&logoColor=00FF41)
+
+---
+
+### `// SECURITY TOOLS`
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge\&logo=burpsuite\&logoColor=FF6633)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge\&logo=metasploit\&logoColor=00FF41)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=65A637)
+![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=for-the-badge\&logo=wazuh\&logoColor=00FF41)
+![Velociraptor](https://img.shields.io/badge/Velociraptor-000000?style=for-the-badge\&logo=target\&logoColor=00FF41)
+![SpiderFoot](https://img.shields.io/badge/SpiderFoot-000000?style=for-the-badge\&logo=searchengin\&logoColor=00FF41)
+![Fabric](https://img.shields.io/badge/Fabric-000000?style=for-the-badge\&logo=linux\&logoColor=00FF41)
+
+---
 
 ### `// DOMAINS`
 
-![Cybersecurity](https://img.shields.io/badge/◈_Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-![Ethical Hacking](https://img.shields.io/badge/◈_Ethical_Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=ff4444)
-![AI Engineering](https://img.shields.io/badge/◈_AI_Engineering-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF41)
-![Automation](https://img.shields.io/badge/◈_Automation-000000?style=for-the-badge&logo=zapier&logoColor=FF8C00)
-![Full Stack](https://img.shields.io/badge/◈_Full_Stack-000000?style=for-the-badge&logo=stackblitz&logoColor=ffffff)
+![Cybersecurity](https://img.shields.io/badge/%E2%97%88_Cybersecurity-000000?style=for-the-badge\&logo=hackthebox\&logoColor=9FEF00)
+![Ethical Hacking](https://img.shields.io/badge/%E2%97%88_Ethical_Hacking-000000?style=for-the-badge\&logo=kalilinux\&logoColor=ff4444)
+![Security Engineering](https://img.shields.io/badge/%E2%97%88_Security_Engineering-000000?style=for-the-badge\&logo=linux\&logoColor=00FF41)
+![Red Teaming](https://img.shields.io/badge/%E2%97%88_Red_Teaming-000000?style=for-the-badge\&logo=kalilinux\&logoColor=ff4444)
+![CTF](https://img.shields.io/badge/%E2%97%88_CTF-000000?style=for-the-badge\&logo=tryhackme\&logoColor=00FF41)
+![Network Security](https://img.shields.io/badge/%E2%97%88_Network_Security-000000?style=for-the-badge\&logo=cisco\&logoColor=00FF41)
+![Networking](https://img.shields.io/badge/%E2%97%88_Networking-000000?style=for-the-badge\&logo=wireshark\&logoColor=00FF41)
+![AI Engineering](https://img.shields.io/badge/%E2%97%88_AI_Engineering-000000?style=for-the-badge\&logo=tensorflow\&logoColor=00FF41)
+![Automation](https://img.shields.io/badge/%E2%97%88_Automation-000000?style=for-the-badge\&logo=zapier\&logoColor=FF8C00)
 
 </div>
+
 
 <!-- ═══════════════════════ GLITCH DIVIDER ══════════════════════════ -->
 <div align="center">
@@ -283,11 +261,10 @@ ARCHITECTURE:
 Jan ?? ??:??:?? kali dhrona[0001]: [BOOT]   Brain service initialized
 Jan ?? ??:??:?? kali dhrona[0002]: [INFO]   Loading: Kali Linux — recon, exploit dev, CTF
 Jan ?? ??:??:?? kali dhrona[0003]: [INFO]   Loading: Cybersecurity — OWASP, web vulns, threat modeling
-Jan ?? ??:??:?? kali dhrona[0004]: [INFO]   Loading: AI Systems — RAG, agents, multimodal pipelines
-Jan ?? ??:??:?? kali dhrona[0005]: [INFO]   Loading: Backend architecture & distributed system design
-Jan ?? ??:??:?? kali dhrona[0006]: [WARN]   Sleep queue: FULL — buffer overflow detected
-Jan ?? ??:??:?? kali dhrona[0007]: [INFO]   Queue depth: ∞  ETA to completion: NEVER (intended)
-Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemon: HEALTHY ✓
+Jan ?? ??:??:?? kali dhrona[0004]: [INFO]   Loading: Backend architecture & distributed system design
+Jan ?? ??:??:?? kali dhrona[0005]: [WARN]   Sleep queue: FULL — buffer overflow detected
+Jan ?? ??:??:?? kali dhrona[0006]: [INFO]   Queue depth: ∞  ETA to completion: NEVER (intended)
+Jan ?? ??:??:?? kali dhrona[0007]: [OK]     All modules running. Curiosity daemon: HEALTHY ✓
 ```
 
 <!-- ═══════════════════════ GLITCH DIVIDER ══════════════════════════ -->
@@ -304,13 +281,13 @@ Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemo
 ```
   ╔═══════════════════════════════════════════════════════════════╗
   ║                                                               ║
-  ║        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄                 ║
-  ║        █       PRIORITY TARGETS — DHRONA.SYS      █           ║
-  ║        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀               ║
+  ║        ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄                ║
+  ║        █       PRIORITY TARGETS — DHRONA.SYS █                ║
+  ║        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                ║
   ║                                                               ║
   ║   [01]  ████████░░  Master Kali & Ethical Hacking             ║
   ║   [02]  ███████░░░  Build AI systems that actually matter     ║
-  ║   [03]  ██████░░░░  Engineer automation that frees humans     ║
+  ║   [03]  ██████░░░░   Security Engineer, automation matters    ║
   ║   [04]  █████░░░░░  Open-source — give back to the grid       ║
   ║   [05]  ████░░░░░░  Leave a permanent dent in the universe    ║
   ║                                                               ║
@@ -368,22 +345,56 @@ Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemo
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
+<!-- ═══════════════════════ FEATURED PROJECT ════════════════════════ -->
 
-<!-- ═══════════════════════ TROPHIES ═════════════════════════════════ -->
-
-## 🏆 `❯ cat /var/log/achievements.log`
+## 🧠 `❯ ./launch --mode=public --project=flagship`
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dhrona1421&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+```
+     ██████╗ ██╗   ██╗██████╗ ██╗     ██╗ ██████╗
+     ██╔══██╗██║   ██║██╔══██╗██║     ██║██╔════╝
+██████╔╝██║   ██║██████╔╝██║     ██║██║
+██╔═══╝ ██║   ██║██╔══██╗██║     ██║██║
+     ██║     ╚██████╔╝██████╔╝███████╗██║╚██████╗
+     ╚═╝      ╚═════╝ ╚═════╝ ╚══════╝╚═╝ ╚═════╝
+         MULTIMODAL CONTENT MODERATION
+```
 
 </div>
 
-<!-- ═══════════════════════ GLITCH DIVIDER ══════════════════════════ -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
+<table>
+<tr>
+<td width="58%" valign="top">
 
+### 🔬 What It Does
+
+An AI-powered engine that **sees, reads, and judges** — simultaneously analyzing text and images for harmful content in real time.
+
+Built to handle the unfiltered, chaotic, hostile corners of the internet at scale. Not a toy. A tool.
+
+```
+ARCHITECTURE:
+  Input  →  [TEXT]──────────┐
+                             ├──→  [FUSION ENGINE]  ──→  VERDICT
+  Input  →  [IMAGE]─────────┘
+```
+
+**Stack:** Python · HuggingFace Transformers · Multimodal AI · Gradio
+
+---
+
+[![HuggingFace](https://img.shields.io/badge/🤗_LIVE_DEMO-FFD21E?style=for-the-badge&labelColor=000000&logoColor=FFD21E)](https://huggingface.co/spaces/Dhrona1421/multimodal-content-moderation)
+[![GitHub Repo](https://img.shields.io/badge/SOURCE_CODE-00FF41?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/Dhrona1421/multimodal-content-moderation)
+
+> *⚡ One of the few public windows into what I actually build.*
+
+</td>
+<td width="42%" align="center" valign="middle">
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="260" style="border-radius: 12px;"/>
+</td>
+</tr>
+</table>
 <!-- ═══════════════════════ CONNECT ══════════════════════════════════ -->
 
 ## 🛰️ `❯ ping dhrona --open-secure-channel`
@@ -426,8 +437,8 @@ Jan ?? ??:??:?? kali dhrona[0008]: [OK]     All modules running. Curiosity daemo
  ██████████████████████████████████████████████████████████████████
  █                                                                █
  █   "The system said I needed a traditional path.               █
- █    I wrote 40,000 lines and built my own."                   █
- █                                                               █
+ █    I wrote enough lines and built my own."                   █
+ █                                                              █
  █                                               — Dhrona        █
  █                                                                █
  ██████████████████████████████████████████████████████████████████
